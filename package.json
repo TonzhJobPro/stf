@@ -71,6 +71,7 @@
     "my-local-ip": "^1.0.0",
     "node-unzip-2": "^0.2.8",
     "openid": "^2.0.1",
+    "package.json": "^2.0.1",
     "passport": "^0.3.2",
     "passport-oauth2": "^1.1.2",
     "passport-saml": "^0.15.0",
@@ -87,7 +88,7 @@
     "serve-static": "^1.9.2",
     "sharp": "^0.22.0",
     "sleep": "^6.0.0",
-    "socket.io": "^2.0.3",
+    "socket.io": "^2.0.4",
     "split": "^1.0.0",
     "stf-appstore-db": "^1.0.0",
     "stf-browser-db": "^1.0.2",
@@ -104,7 +105,7 @@
     "uuid": "^3.0.0",
     "ws": "^3.0.0",
     "yargs": "^6.6.0",
-    "zmq": "^2.14.0"
+    "zmq": "^2.15.3"
   },
   "devDependencies": {
     "async": "^2.0.1",
